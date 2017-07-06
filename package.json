@@ -1,6 +1,6 @@
 {
   "name": "react-native-wkwebview",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Native WKWebView for iOS",
   "main": "index.js",
   "repository": {
